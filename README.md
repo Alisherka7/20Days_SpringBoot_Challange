@@ -27,4 +27,13 @@
 <!-- Contribution -->
 # :bookmark_tabs:스터디 컨트리뷰션 
 
-스터디 챌린지
+### :heavy_exclamation_mark: 스터디 챌린지 참여하고 싶은 분들
+  1. 먼저 오픈소스 깃허브 리포지터리를 Fork한다
+  2. 내 깃허브에서 Fork한 리포지터리를 git clone한다
+  3. 수정이나 추가하고 싶은 주제를 추가후 ``` git add``` -> ```git commit -m "예: 3주제 개발 환경 구성입니다." ``` -> ```git push``` 명령어로 깃허브에 추가한다.
+  4. Pull Request버튼 클릭하며 컨트리뷰션 요청을 한다.
+  
+### :question: 칠문 있으신 분
+  Email: <a href="mailto:alisherka7@jj.ac.kr">alisherka7@jj.ac.kr</a>
+ 
+  
