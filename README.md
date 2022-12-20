@@ -9,7 +9,7 @@
 <!-- TABLE OF CONTENTS -->
 <summary>목차</summary>
 <ol>
-  <li><a href="#스프링-부트란">스프링 부트란</a></li>
+  <li><a href="https://github.com/Alisherka7/20Days_SpringBoot_Challange/tree/main/1.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8%EB%9E%80%3F">스프링 부트란</a></li>
   <li><a href="#2">개발에 앞서 알면 좋은 기초 지식</a></li>
   <li><a href="#3">개발 환경 구성</a></li>
   <li><a href="#4">스프링 부트 애플리케이션 개발하기</a></li>
