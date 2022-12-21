@@ -13,7 +13,7 @@
   <li><a href="#2">개발에 앞서 알면 좋은 기초 지식</a></li>
   <li><a href="#3">개발 환경 구성</a></li>
   <li><a href="#4">스프링 부트 애플리케이션 개발하기</a></li>
-  <li><a href="#5">API를 작성하는 다양한 방법</a></li>
+  <li><a href="https://github.com/Alisherka7/20Days_SpringBoot_Challange/tree/main/API%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%95%98%EB%8A%94%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%B0%A9%EB%B2%95">API를 작성하는 다양한 방법</a></li>
   <li><a href="#6">데이터베이스 연동</a></li>
   <li><a href="#7">테스트 코드 작성하기</a></li>
   <li><a href="#abot_spring_boot">Spring Data JPA활용</a></li>
